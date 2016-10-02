@@ -2,7 +2,7 @@
 PHP MVC application with a costum framework, that provides a solution for managing enterprise warehouses.
 
 ##About
-This project was made for educational purposes. It uses a MySql Database and a costume php framework that implements the basic framework functionalities : **Routing** and **Templating**.
+This project was made for educational purposes. It uses a MySql Database and a costume php framework that implements the basic framework functionalities : **Routing** and **Templating**.</br>
 No ORM was used. We used SQL with the help of the PDO php API.
 Also the web interface for this project is in the French langauge.
 
