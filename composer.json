@@ -1,0 +1,20 @@
+{
+    "name": "gestionnaire-commercial",
+    "type": "project",
+    "description": "Systeme de gestion commerciale pour une entreprise dépendante d'un stock",
+
+    "authors": [
+        {
+            "name": "kais",
+            "role": "Developer"
+        }
+        {
+            "name": "nadhmi",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
