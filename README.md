@@ -10,3 +10,6 @@ Also the web interface for this project is in the French langauge.
 This project uses `.htaccess` files so it is meant to execute in an Apache environment.</br>
 So, simply copy the repository code in `/www` directory of your server
 
+##Video
+Here is a descriptive video in which I demonstrate a full user story:</br>
+[YOUTUBE]https://www.youtube.com/watch?v=VJculY6yfFw)
